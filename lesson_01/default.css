@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+h1{
+	color:#a33;
+	text-align: center;
+}
+
+h2{
+	color:#3a3;
+}
+
+p{
+	color:#33a;
+}
+
+/*
+
+h1{
+	color:#333;
+	padding: 10px;
+	margin: 20px;
+	border: 2px solid #f00;
+	background: #faa;
+}
+
+h2{
+	color:#333;
+	padding: 10px;
+	margin: 20px;
+	border: 2px solid #0f0;
+	background: #afa;
+	
+}
+
+p{
+	color:#000;
+	padding: 10px;
+	margin: 20px;
+	line-height: 2.0em;
+	width: 800px;
+}
+*/
